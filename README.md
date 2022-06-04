@@ -24,3 +24,9 @@ My dotfiles
 - **Telegram** [telegram-desktop](https://desktop.telegram.org/)
 - **Document viewer** [zathura](https://git.pwmt.org/pwmt/zathura)
 - **Theme switcher** [lxappearance](https://wiki.lxde.org/en/LXAppearance)
+
+---
+
+### some dependencies required
+
+`git-delta` for `lazygit`

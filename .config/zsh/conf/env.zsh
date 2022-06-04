@@ -10,7 +10,7 @@ export PATH=$PATH:$GOPATH/bin
 export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 
 #yarn
-alias yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config"'
+#alias yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config"'
 
 # path
 export PATH=$PATH:$LOCALBIN

@@ -73,7 +73,7 @@ super + Escape
 
 # toggle polybar
 super + g
- /bin/bash ~/.local/mbin/polybar/toggle_polybar.sh
+ /bin/bash ~/MK/mbin/polybar/toggle_polybar.sh
 
 # quit/restart bspwm
 super + ctrl + {q,r}
