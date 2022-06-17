@@ -7,3 +7,4 @@
 #xrandr --auto --output HDMI-0 --primary --mode 2560x1440 --rate 142.93 --output eDP-1-1 --off
 
 xrandr --auto --output DP-0 --primary --mode 2560x1440 --rate 165 --output eDP-1-1 --off
+xrandr --output DP-2 --mode 2560x1440 --rate 165 --right-of DP-0
